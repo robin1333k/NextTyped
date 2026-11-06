@@ -1,0 +1,45 @@
+Störungsprotokoll Anlage 4
+Kalenderwoche 11
+
+Meldende Schicht: Frühschicht, Leitstand 2
+Bearbeitung: Instandhaltung Nord
+
+Kurzfassung
+
+Die Störung trat am Dienstag gegen 05:40 Uhr auf und wurde um 07:15 Uhr behoben. Die Anlage lief anschließend bis Schichtende ohne weitere Auffälligkeiten. Ausfallzeit insgesamt: 95 Minuten. Ein Produktionsverlust ist entstanden, wurde jedoch am Mittwoch durch eine verlängerte Spätschicht ausgeglichen.
+
+Ablauf
+
+05:40 Meldung aus dem Leitstand, Antrieb 2 ohne Rückmeldung
+05:48 Vor-Ort-Kontrolle, kein sichtbarer Schaden
+06:02 Anlage stillgesetzt
+06:20 Instandhaltung vor Ort
+06:55 Geber getauscht
+07:10 Probelauf
+07:15 Freigabe
+
+Ursache
+
+Der Drehzahlgeber an Antrieb 2 war defekt. Der Fehler war sporadisch und daher in der Vorwoche nicht eindeutig zuzuordnen; die Meldung vom Donnerstag der Vorwoche beschreibt bereits dasselbe Bild, wurde damals aber als Kontaktproblem abgelegt. Das war die falsche Ablage, und sie hat uns eine Woche gekostet.
+
+Getroffene Maßnahmen
+
+Der Geber wurde getauscht. Das Ersatzteil kam aus dem Lager und ist nachzubestellen. Die Verkabelung wurde geprüft und war in Ordnung.
+
+Offene Punkte
+
+Nachbestellung Geber
+Prüfung der übrigen Antriebe im Rahmen der nächsten Wartung
+Anpassung der Ablageregel für sporadische Fehler
+
+Bewertung
+
+Die Behebung war zügig. Die Vorgeschichte war es nicht. Eine sporadische Meldung, die einmal falsch einsortiert wird, taucht erst wieder auf, wenn sie zum Stillstand führt, und dann ist die Bewertung des Aufwands eine andere. Der dritte offene Punkt ist deshalb der wichtigste, auch wenn er der einzige ohne Ersatzteilnummer ist.
+
+Verteiler
+
+Leitstand 1 und 2
+Instandhaltung Nord
+Schichtleitung
+
+Anhang: Trendkurve Antrieb 2, Kalenderwoche 10 und 11.

@@ -1,0 +1,75 @@
+Projektnotiz: Überarbeitung der Website von hd audiotechnik
+
+1. Ausgangslage
+
+Die bestehende Website von hd audiotechnik stammt aus dem Jahr 2019 und wurde seitdem nur punktuell
+gepflegt. Die Navigation ist über die Jahre gewachsen und enthält inzwischen vierzehn Einträge auf der
+obersten Ebene, was für Erstbesucher schwer zu überblicken ist. Die Produktseiten sind uneinheitlich
+aufgebaut: manche zeigen technische Datenblätter, andere nur ein kurzes Fließtextabsatz ohne konkrete
+Angaben. Für den Vertrieb ist das ein Problem, weil Anfragen häufig mit Rückfragen beginnen, die die
+Seite eigentlich beantworten sollte.
+
+2. Zielsetzung
+
+Ziel der Überarbeitung ist eine Website, die drei Aufgaben zuverlässig erfüllt. Erstens soll sie den
+Funktionsumfang der einzelnen Geräte so darstellen, dass ein technisch versierter Einkäufer die
+Eignung ohne Rückfrage einschätzen kann. Zweitens soll sie die Referenzprojekte sichtbar machen, weil
+diese im Gespräch regelmäßig als Argument dienen und bisher nur als PDF verschickt werden. Drittens
+soll die Seite auf mobilen Geräten benutzbar sein, was sie derzeit nur eingeschränkt ist.
+
+3. Methodik
+
+Die empirische Untersuchung wurde im Mai 2026 durchgeführt. Grundlage waren acht moderierte
+Nutzungstests mit Teilnehmenden aus dem Zielsegment sowie eine heuristische Evaluation der bestehenden
+Seite. Die Tests fanden in Einzelbearbeitung statt, jeweils etwa fünfzig Minuten, mit einer festen
+Aufgabenliste und lautem Denken. Aufgezeichnet wurden Bildschirm und Ton, ausgewertet wurde entlang
+der Aufgaben, nicht entlang der Seitenstruktur.
+
+Die heuristische Evaluation folgte den zehn Grundsätzen von Nielsen und wurde von zwei Personen
+unabhängig voneinander vorgenommen. Abweichungen zwischen den beiden Bewertungen wurden anschließend
+gemeinsam besprochen und aufgelöst. Diese doppelte Bearbeitung hat sich gelohnt: etwa ein Drittel der
+später bestätigten Befunde war nur einer der beiden Personen aufgefallen.
+
+4. Ergebnisse der Nutzungstests
+
+Sieben von acht Teilnehmenden suchten die technischen Daten zuerst über die Suche und nicht über die
+Navigation. Das deckt sich mit der Beobachtung, dass die Navigation zu viele gleichrangige Einträge
+enthält. Die Suche liefert allerdings Treffer aus dem Blog gemischt mit Produktseiten, ohne dass die
+Herkunft erkennbar wäre, was mehrfach zu Verwirrung geführt hat.
+
+Fünf Teilnehmende haben die Unterscheidung zwischen den Serien nicht verstanden. Die Namen der Serien
+sind firmenintern etabliert, tragen aber für Außenstehende keine Bedeutung. Zwei Teilnehmende haben
+die Serie für eine Baugröße gehalten, eine weitere Person für eine Preisklasse.
+
+Die Referenzprojekte wurden von allen Teilnehmenden als hilfreich bewertet, sobald sie gefunden waren.
+Gefunden wurden sie allerdings nur von drei Personen ohne Hilfestellung. Der Einstiegspunkt liegt
+derzeit im Fußbereich der Seite und ist nicht mit den Produktseiten verknüpft.
+
+5. Empfehlungen
+
+Die Navigation sollte auf fünf bis sechs Einträge reduziert werden, mit einer klaren Trennung zwischen
+Produkten, Anwendungen und Unternehmen. Die Suche sollte die Herkunft eines Treffers ausweisen und
+Produktseiten bevorzugt einsortieren. Die Serien sollten um eine kurze, wörtliche Beschreibung
+ergänzt werden, die die Einordnung ohne Vorwissen erlaubt.
+
+Für die Referenzprojekte empfiehlt sich eine gegenseitige Verknüpfung: von der Produktseite zu den
+Projekten, in denen das Gerät eingesetzt wurde, und umgekehrt. Das erfordert eine einmalige
+Zuordnung im Redaktionssystem, die nach Schätzung der Redaktion an einem Tag zu leisten ist.
+
+6. Offene Punkte
+
+Nicht geklärt ist, wie die technischen Datenblätter künftig gepflegt werden. Derzeit entstehen sie in
+der Entwicklung als PDF und werden manuell hochgeladen, was regelmäßig zu veralteten Ständen führt.
+Eine strukturierte Ablage wäre die saubere Lösung, bedeutet aber einen Eingriff in die Prozesse der
+Entwicklung und ist deshalb nicht Teil dieses Vorschlags.
+
+Ebenfalls offen ist der Umgang mit den englischsprachigen Seiten. Sie sind derzeit eine unvollständige
+Übersetzung des deutschen Bestands, und niemand ist für ihre Pflege zuständig. Die Ergebnisse aus
+Kapitel 4 gelten für die deutsche Fassung; ob sie sich übertragen lassen, wurde nicht untersucht.
+
+7. Nächste Schritte
+
+Die Ergebnisse werden in Kapitel 5 zusammengefasst und in der kommenden Woche mit der Geschäftsführung
+besprochen. Anschließend soll entschieden werden, ob die Überarbeitung in einem Zug oder in zwei
+Ausbaustufen erfolgt. Für den Fall der zweistufigen Umsetzung wäre die Navigation der erste Schritt,
+weil sie ohne Eingriff in die Inhalte auskommt und den größten gemessenen Effekt verspricht.
